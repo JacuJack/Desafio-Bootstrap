@@ -1,0 +1,54 @@
+* {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+}
+
+.fondo-verde {
+   background-color: #28A745;   
+}
+
+
+#img-cuppon-negro {
+  
+   display: block;
+   width: 82px;
+   margin: 1.5rem auto 0;
+
+
+}
+
+#texto-final {
+   text-align: center;
+   color: #707070;
+}
+
+p {
+   margin-bottom: 0;
+}
+.item {
+   font-size: 20px;
+   text-align: left;
+   color: #212529;
+}
+.marca {
+   font-size: 16px;
+   text-align: left;
+   color: #707070;
+}
+.direccion {
+   font-size: 13px;
+   text-align: left;
+   color: #707070;
+}
+.precio {
+   font-size: 13px;
+   color: #707070;
+   
+   
+   
+
+}
+.oferta {
+   font-size: 20px;
+   color: #28A745;
+}
